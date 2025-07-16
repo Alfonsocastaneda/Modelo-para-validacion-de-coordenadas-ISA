@@ -1,4 +1,4 @@
-Modelos para la revisión de coordenadas que seguros que desean acceder al Incentivo de Seguro Agropecuario ISA
+Modelos para la revisión de coordenadas se productos y actividades agropecuarias aseguradas que desean acceder al Incentivo de Seguro Agropecuario ISA
 
 Modelo VerificarUbicacion: Este modelo permite verificar que los puntos (coordenadas) informadas por las aseguradoras esten en la ubicacion reportada en el aplicativo ISA (Codigo Dane)
 
